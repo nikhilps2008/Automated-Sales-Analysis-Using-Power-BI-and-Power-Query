@@ -1,0 +1,2 @@
+# Automated-Sales-Analysis-Using-Power-BI-and-Power-Query
+Handling raw data received via email attachments is a time-consuming and error-prone process. Organizations often struggle with downloading, opening, cleaning, and visualizing this data daily. This project aims to revolutionize this process by automating the entire workflow, providing effortless access to comprehensive and interactive dashboards.
