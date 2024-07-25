@@ -1,21 +1,34 @@
-# Automated-Sales-Analysis-Using-Power-BI-and-Power-Query
+# Automated Sales Analysis Using Power BI and Power Query
 
-# Problem Statement:
-Handling raw data received via email attachments is a time-consuming and error-prone process. Organizations often struggle with downloading, opening, cleaning, and visualizing this data daily. This project aims to revolutionize this process by automating the entire workflow, providing effortless access to comprehensive and interactive dashboards.
+## Project Scope
+This project automates the handling and visualization of raw sales data received via email attachments. It simplifies the process from data extraction to real-time dashboard creation, enhancing efficiency and decision-making capabilities.
 
-# Project Overview:
-This project leverages Power BI and Power Query Editor to automate the management of raw sales data received through email attachments. By implementing this model, organizations can significantly reduce the time and effort required to process and visualize data. The result is a set of dynamic dashboards that offer real-time insights into sales performance without manual intervention.
+## Context or Background Info
+Organizations often face challenges with managing raw sales data manually, which can be time-consuming and error-prone. This project addresses these issues by automating data handling and visualization, providing real-time insights through interactive dashboards.
 
-# Key Features:
-Automated Data Handling: Automatically extracts and processes raw data from email attachments, eliminating the need for manual downloading and opening of files.
-Data Cleaning and Transformation: Utilizes Power Query Editor to clean and transform data, ensuring it is ready for analysis.
-Real-Time Dashboards: Power BI dashboards provide real-time visualizations, making it easy to monitor sales metrics and trends.
-Interactive Graphs: Includes interactive elements such as scrollers to enhance user experience and data exploration.
-Comprehensive Metrics: Tracks key sales metrics like total sales, profit, quantity, and discounts, offering a holistic view of sales performance.
+## Visualizations
+The following visualizations are included in the project:
+- **Dashboard Overview:** [Insert PNG screenshot here or provide description]
+- **Interactive Elements:** [Insert PNG screenshot here or provide description]
+- **Real-Time Trends:** [Insert PNG screenshot here or provide description]
 
-# Tools Used:
-Power BI: For creating interactive and visually appealing dashboards to present the findings.
-Power Query Editor: For initial data cleaning and preparation to ensure the data is ready for analysis.
+## Author
+Nikhil Sreenivasan
 
-# Conclusion:
-This project demonstrates the power of automation in data management, significantly reducing the time and effort required to process raw data from email attachments. By leveraging Power BI and Power Query Editor, organizations can gain real-time insights into their sales performance, leading to better decision-making and improved efficiency.
+## Data Sources
+- **Raw Data:** [Describe the dataset, e.g., sales data received via email attachments]
+- **Data File Location:** `/data`
+
+## Files and Folders
+- **`.pbix` File:** Contains the Power BI report with interactive dashboards.
+- **Videos Folder:** Includes video demonstrations of the dashboard.
+  - `/videos/Sales Analysis Dashboard.mp4`
+- **Figures Folder:** Contains PNG images of the dashboards.
+  -![Dashboard Overview](reports/figures/Sales%20Analysis%20Report.png)
+
+## Dependencies
+- **Power BI:** For creating interactive and visually appealing dashboards.
+- **Power Query Editor:** For data cleaning and preparation.
+
+## Conclusion
+This project highlights the benefits of automating data management and visualization processes. Utilizing Power BI and Power Query Editor, it delivers real-time insights into sales performance, promoting better decision-making and operational efficiency.
