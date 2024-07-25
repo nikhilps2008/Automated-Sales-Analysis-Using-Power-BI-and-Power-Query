@@ -8,15 +8,13 @@ Organizations often face challenges with managing raw sales data manually, which
 
 ## Visualizations
 The following visualizations are included in the project:
-- **Dashboard Overview:** [Insert PNG screenshot here or provide description]
-- **Interactive Elements:** [Insert PNG screenshot here or provide description]
-- **Real-Time Trends:** [Insert PNG screenshot here or provide description]
+- **Dashboard Overview:** ![Dashboard Overview](reports/figures/Sales%20Analysis%20Report.png)
 
 ## Author
 Nikhil Sreenivasan
 
 ## Data Sources
-- **Raw Data:** [Describe the dataset, e.g., sales data received via email attachments]
+- **Raw Data:** [sales data received via email attachments]
 - **Data File Location:** `/data`
 
 ## Files and Folders
@@ -24,7 +22,7 @@ Nikhil Sreenivasan
 - **Videos Folder:** Includes video demonstrations of the dashboard.
   - `/videos/Sales Analysis Dashboard.mp4`
 - **Figures Folder:** Contains PNG images of the dashboards.
-  -![Dashboard Overview](reports/figures/Sales%20Analysis%20Report.png)
+  - `/figures/Sales Analysis Report.png`
 
 ## Dependencies
 - **Power BI:** For creating interactive and visually appealing dashboards.
