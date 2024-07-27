@@ -35,6 +35,10 @@ The project follows the structure below:
 The following visualizations are included in the project:
 - **Dashboard Overview:** ![Dashboard Overview](reports/figures/Sales%20Analysis%20Report.png)
 
+- **Dashboard Demo:**
+
+https://github.com/user-attachments/assets/75b6f29a-50b6-4160-a147-a86b88ad736c
+
 ## Author
 Nikhil Sreenivasan
 
